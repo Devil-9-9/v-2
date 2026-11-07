@@ -15,6 +15,6 @@ export const CROUCH_SPEED = 2.0;
 export const JUMP_SPEED = 5.2;        // v^2 / 2g = ~1.38 blocks: clears one block, not two
 export const REACH = 6;               // build/break reach in blocks
 export const MAX_HP = 100;
-export const DAY_LENGTH_SEC = 300;    // full day/night cycle
+export const DAY_LENGTH_SEC = 2000;    // full day/night cycle
 export const SPAWN_RADIUS = 6;
 export const TEAM_NAMES = ['BLUE', 'RED'];
